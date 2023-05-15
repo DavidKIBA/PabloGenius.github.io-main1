@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cac05c57-0c1d-46d8-b85d-f0ed1e643384" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PabloGenius.github.io-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/contacts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/contacts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/contacts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/contacts/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/contacts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/contacts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/contacts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/contacts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/contacts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/immobilier/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/immobilier/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/immobilier/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/immobilier/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/immobilier/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/immobilier/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/investisseurs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/investisseurs/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/investisseurs/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/investisseurs/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/investisseurs/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/investisseurs/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/investisseurs/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/alt-services-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/alt-services.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/blog-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/blog-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/blog-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/blog-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/blog-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/blog-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/blog-author.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/blog-inside-post.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/blog-recent-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/blog-recent-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/blog-recent-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/blog-recent-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/blog-recent-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/comments-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/comments-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/comments-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/comments-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/comments-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/blog/comments-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/breadcrumbs-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/constructions-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/constructions-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/constructions-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/constructions-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/features-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/features-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/features-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/features-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/footer-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/hero-carousel/hero-carousel-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/hero-carousel/hero-carousel-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/hero-carousel/hero-carousel-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/hero-carousel/hero-carousel-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/hero-carousel/hero-carousel-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/projects/construction-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/projects/construction-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/projects/construction-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/projects/design-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/projects/design-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/projects/design-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/projects/remodeling-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/projects/remodeling-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/projects/remodeling-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/projects/repairs-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/projects/repairs-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/projects/repairs-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/services.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/team/team-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/team/team-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/team/team-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/team/team-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/team/team-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/team/team-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/testimonials/testimonials-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/testimonials/testimonials-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/testimonials/testimonials-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/testimonials/testimonials-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/img/testimonials/testimonials-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/scss/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/aos/aos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/aos/aos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap-icons/bootstrap-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap-icons/bootstrap-icons.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap-icons/bootstrap-icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap-icons/fonts/bootstrap-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/v4-font-face.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/v4-font-face.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/v5-font-face.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/css/v5-font-face.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/webfonts/fa-v4compatibility.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/fontawesome-free/webfonts/fa-v4compatibility.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/glightbox/css/glightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/glightbox/css/glightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/glightbox/css/plyr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/glightbox/css/plyr.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/glightbox/js/glightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/glightbox/js/glightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/isotope-layout/isotope.pkgd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/isotope-layout/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/php-email-form/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/purecounter/purecounter_vanilla.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/purecounter/purecounter_vanilla.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/swiper/swiper-bundle.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/swiper/swiper-bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/media/vendor/swiper/swiper-bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/membres/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/membres/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/membres/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/membres/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/membres/migrations/0002_alter_membres_options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/membres/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/membres/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/membres/signals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/membres/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/membres/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/static/sass/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/UpConstruction/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/UpConstruction/blog-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/UpConstruction/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/UpConstruction/forms/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/UpConstruction/forms/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/UpConstruction/forms/quote.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/UpConstruction/project-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/UpConstruction/projects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/UpConstruction/sample-inner-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/UpConstruction/service-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/UpConstruction/services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/base/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/base/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/base/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/base/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/base/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/user_auth/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/templates/user_auth/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/migrations/0002_utilisateur_phone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/migrations/0003_alter_utilisateur_options_alter_utilisateur_managers_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/migrations/0004_alter_utilisateur_adresse_alter_utilisateur_budget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/migrations/0005_alter_utilisateur_email_alter_utilisateur_phone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/migrations/0006_alter_utilisateur_phone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/signals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PabloGenius.github.io-main/utilisateurs/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Pjxzc0jSPAuTvHDQX6c7zICfZm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cac05c57-0c1d-46d8-b85d-f0ed1e643384" name="Changes" comment="" />
+      <created>1683984556166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683984556166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
